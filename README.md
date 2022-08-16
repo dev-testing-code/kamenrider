@@ -88,7 +88,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [:Karona](https://github.com/dev-testing-code)
+- [Karona](https://github.com/dev-testing-code)
 - [All Contributors](../../contributors)
 
 ## License
